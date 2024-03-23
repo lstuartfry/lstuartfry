@@ -22,8 +22,8 @@ Throughout my career, I have worked on a wide range of teams, from small startup
 
 ## My Tech Stack
 
-<div style="display:flex">
-<div>
+<div style="display:flex; flex-direction:row">
+<div style="margin-right: 12px">
 <img src="https://cdn.sanity.io/images/599r6htc/localized/2d98f37b14bfabde217cd89b38dd0b3481c5ef7f-1108x1108.png?w=1200&q=70&fit=max&auto=format" alt="tech stack" width="80" height="80">
 </div>
 <div>
@@ -32,7 +32,6 @@ Throughout my career, I have worked on a wide range of teams, from small startup
 - **Frontend/UI**: React, Redux, Redux Toolkit, Next.js, Storybook, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Testing Libraries**: Playwright, Cypress, Jest, React Testing Library
-
 </div>
 
 </div>
