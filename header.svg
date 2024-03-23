@@ -1,0 +1,53 @@
+<svg fill="none" viewBox="0 0 600 150" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(6.0deg) }
+           20% { transform: rotate(-10.0deg) }
+           30% { transform: rotate(6.0deg) }
+           40% { transform: rotate(-10.0deg) }
+           50% { transform: rotate(4.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        .header {
+          width: 100%;
+          height: 150px;
+          color: white;
+          text-shadow: 0px 1px 1px black;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+          --color-main: #011721;
+          --color-primary: #d2533e;
+          --color-secondary: #63a6d5;
+          --color-tertiary: #776b6e;
+
+          background: linear-gradient(10deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          animation: gradient 15s ease infinite;
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="header">
+        <h1>Hi, I'm Lukas Stuart-Fry<div class="hi">🙋🏻‍♂️</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

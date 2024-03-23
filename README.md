@@ -1,4 +1,6 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Lukas Stuart-Fry </h1>
+<div style="width: 100%; height:100%">
+  <img src="header.svg" style="width: 100%;" alt="profile header">
+</div>
 
 <h3 align="center">I'm a Software Engineer with 7+ years of experience.</h3>
 <h3 align="center">My expertise lies on the frontend, in particular working with <a href="https://www.typescriptlang.org/">TypeScript<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/></a>, <a href="https://react.dev/">React<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="20" height="20"/></a> and <a href="https://redux-toolkit.js.org/introduction/getting-started">Redux<img src="https://img.icons8.com/color/48/000000/redux.png" alt="react-redux" width="20" height="20"/></a>.</h3>
@@ -22,19 +24,10 @@ Throughout my career, I have worked on a wide range of teams, from small startup
 
 ## My Tech Stack
 
-<div style="display:flex; flex-direction:row">
-<div style="margin-right: 12px">
-<img src="https://cdn.sanity.io/images/599r6htc/localized/2d98f37b14bfabde217cd89b38dd0b3481c5ef7f-1108x1108.png?w=1200&q=70&fit=max&auto=format" alt="tech stack" width="80" height="80">
-</div>
-<div>
-
 - **Languages**: TypeScript, JavaScript, HTML, CSS
 - **Frontend/UI**: React, Redux, Redux Toolkit, Next.js, Storybook, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Testing Libraries**: Playwright, Cypress, Jest, React Testing Library
-</div>
-
-</div>
 
 ## Some Favorite Technologies
 
