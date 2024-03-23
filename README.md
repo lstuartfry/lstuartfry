@@ -3,7 +3,14 @@
 <h3 align="center">I'm a Software Engineer with 7+ years of experience.</h3>
 <h3 align="center">My expertise lies on the frontend, in particular working with <a href="https://www.typescriptlang.org/">TypeScript<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/></a>, <a href="https://react.dev/">React<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="20" height="20"/></a> and <a href="https://redux-toolkit.js.org/introduction/getting-started">Redux<img src="https://img.icons8.com/color/48/000000/redux.png" alt="react-redux" width="20" height="20"/></a>.</h3>
 
-<h3>📭 Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasstuartfry/)</h3>
+<h3>📭 Connect with me!</h3>
+
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)
+](<(https://www.linkedin.com/in/lukas-stuart-fry/)>)
+[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
+](https://discordapp.com/users/lstuartfry)
+[![Static Badge](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/lstuartfry/)
 
 ## About Me
 
