@@ -13,6 +13,8 @@
 ](https://discordapp.com/users/lstuartfry)
 [![Static Badge](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/lstuartfry/)
+[![Static Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+](https://twitter.com/lstuartfry)
 
 ## About Me
 
