@@ -15,6 +15,7 @@
 ](https://www.instagram.com/lstuartfry/)
 [![Static Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/lstuartfry)
+[![Static Badge](https://img.shields.io/badge/Goodreads-%23553b08?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/lstuartfry)
 
 ## About Me
 
@@ -51,6 +52,16 @@ In no particular order, here are some of my favorite libraries that I've worked 
 <img src="https://prettier.io/icon.png" alt="prettier logo" height="150">
 <img src="https://cms.digitalpolygon.com/sites/default/files/2022-07/storybook-logo.png" alt="storybook logo" height="150">
 
+</div>
+
+## Hobbies
+
+In my free time, I love spending time with my wife and our two dogs, Easy and Cooper. My favorite thing to do after a long day at work is to go on a long walk or hike in my neighborhood or one of the nearby parks.
+
+I also love to read! I'm big fan of Horror, Thriller/Suspense and Sports fiction. Some of my favorite authors are Richard Matheson, Stephen King, Cormac McCarthy, Ryu Murakami and Mark Harris.
+
+<div style="width: 100%; height:100%">
+  <img src="hobbies.svg" style="width: 100%;" alt="walking my dogs">
 </div>
 
 ## Coming Soon - Hydrogen Stations Map
