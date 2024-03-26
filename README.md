@@ -37,16 +37,18 @@ Throughout my career, I have worked on a wide range of teams, from small startup
 In no particular order, here are some of my favorite libraries that I've worked on over the course of my career:
 
 - [Playwright](https://playwright.dev/): A powerful end-to-end testing library that allows you to write tests for your web applications in a variety of browsers. This is my end-to-end testing library of choice! I cannot fathom the amount of **days** it has saved me in debugging time.
-- [MSW](https://mswjs.io/): A powerful library for mocking API requests in your tests. This is an invaluable tool for quickly mocking success/failure responses from any API endpoint, which makes it very easy to test your components in isolation.
+- [MSW](https://mswjs.io/): A very DX-friendly library for mocking API requests in your tests. This is an invaluable tool for quickly mocking success/failure responses from any API endpoint, which makes it very easy to test your components in isolation.
+- [Tanstack Query](https://tanstack.com/query/latest) - An opinionated, declarative query builder and server state manager for React applications. I used to spend too much time building out custom hooks for fetching data in my projects. It handles caching, background updates and stale data out of the box with zero-configuration.
 - [Deck.gl](https://deck.gl/) / [React-map-gl](https://visgl.github.io/react-map-gl/) / [Mapbox-gl-js](https://docs.mapbox.com/mapbox-gl-js/guides): These libraries are fantastic for building interactive maps in React. I relied on these libraries daily in my last role, where I built a mapping application for a large client.
 - [Prettier](https://prettier.io/): Prettier is a code formatter that I use in all of my projects. I shudder to think of the days that this library didn't exist 😳.
-- [Recharts](https://recharts.org/en-US/): A fantastic charting library that I used extensively at my very first job. I had a lot of fun using this to build informative, interactive charts for our users.
+- [Recharts](https://recharts.org/en-US/): A charting library that I used extensively at my very first job. I had a lot of fun using this to build informative, interactive charts for our users.
 - [Storybook](https://storybook.js.org/): Storybook is a fantastic tool for building UI components in isolation. Not only does it make it easy to build and iterate on components in isolation, it can also be a great tool for documenting your components.
 
 <div align="center" style="margin-top: 24px">
 
 <img src="https://miro.medium.com/v2/resize:fit:1292/format:webp/1*gMiUPuRGC36nxZHe2zthOg.png" alt="playwright logo" height="150">
 <img src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" alt="mock service worker logo" height="150">
+<img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack query logo" height="150">
 <img src="https://deck.gl/images/visgl-logo-dark.png" alt="deck gl logo" height="150">
 <img src="https://play-lh.googleusercontent.com/L70rkCtsT-iRAEv4EDSPncLCmJ532SlczdqxxOCl7N6MVnyrEICtPmIM-z-xFwdlzA" height="150">
 <img src="https://prettier.io/icon.png" alt="prettier logo" height="150">
