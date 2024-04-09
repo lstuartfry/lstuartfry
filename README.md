@@ -11,11 +11,8 @@
 ](<(https://www.linkedin.com/in/lukas-stuart-fry/)>)
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 ](https://discordapp.com/users/lstuartfry)
-[![Static Badge](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)
-](https://www.instagram.com/lstuartfry/)
 [![Static Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/lstuartfry)
-[![Static Badge](https://img.shields.io/badge/Goodreads-%23553b08?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/lstuartfry)
 
 ## About Me
 
