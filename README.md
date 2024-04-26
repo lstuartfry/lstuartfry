@@ -63,7 +63,7 @@ I also love to read! I'm big fan of Horror, Thriller/Suspense and Sports fiction
   <img src="hobbies.svg" style="width: 100%;" alt="walking my dogs">
 </div>
 
-## Coming Soon - Hydrogen Stations Map
+## In Progress - [Hydrogen Stations Map](https://github.com/lstuartfry/h2-stations-map)
 
 (03/22/24) - I'm currently working on a new personal project - a web application that will render a map of all the hydrogen stations in California, and their current status. I'll be using Next.js, Redux, and Mapbox-gl-js to build this application.
 
