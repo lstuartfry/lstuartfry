@@ -55,6 +55,12 @@ In no particular order, here are some of my favorite libraries that I've worked 
 
 ## [Hydrogen Stations Map](https://github.com/lstuartfry/h2-stations-map)
 
+
+
+https://github.com/lstuartfry/lstuartfry/assets/14063740/572db71b-c59a-4e81-89d6-cf9a797492a1
+
+
+
 <strong>In Production @</strong> [https://h2stationsmap.dev](https://h2stationsmap.dev)
 
 I currently live in Los Angeles, and have a lease on a hydrogen fuel-cell vehicle. The infrastructure for hydrogen fueling stations is still quite lacking, and even amongst the stations that exist in the Los Angeles area, they are often either out of fuel, or offline altogether. A similar web application does currently exist ([Hydrogen Stations Map](https://h2fcp.org/stationmap)), but as a frequent user of it, there are improvements I'd like to make on it.
