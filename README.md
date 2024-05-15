@@ -53,6 +53,14 @@ In no particular order, here are some of my favorite libraries that I've worked 
 
 </div>
 
+## [Hydrogen Stations Map](https://github.com/lstuartfry/h2-stations-map)
+
+<strong>In Production @</strong> [https://h2stationsmap.dev](https://h2stationsmap.dev)
+
+I currently live in Los Angeles, and have a lease on a hydrogen fuel-cell vehicle. The infrastructure for hydrogen fueling stations is still quite lacking, and even amongst the stations that exist in the Los Angeles area, they are often either out of fuel, or offline altogether. A similar web application does currently exist ([Hydrogen Stations Map](https://h2fcp.org/stationmap)), but as a frequent user of it, there are improvements I'd like to make on it.
+
+I built this application using Next.js. Check out the [README](https://github.com/lstuartfry/h2-stations-map) for more information!
+
 ## Hobbies
 
 In my free time, I love spending time with my wife and our two dogs, Easy and Cooper. My favorite thing to do after a long day at work is to go on a long walk or hike in my neighborhood or one of the nearby parks.
@@ -62,9 +70,3 @@ I also love to read! I'm big fan of Horror, Thriller/Suspense and Sports fiction
 <div style="width: 100%; height:100%">
   <img src="hobbies.svg" style="width: 100%;" alt="walking my dogs">
 </div>
-
-## In Progress - [Hydrogen Stations Map](https://github.com/lstuartfry/h2-stations-map)
-
-(03/22/24) - I'm currently working on a new personal project - a web application that will render a map of all the hydrogen stations in California, and their current status. I'll be using Next.js, Redux, and Mapbox-gl-js to build this application.
-
-I currently live in Los Angeles, and have a lease on a hydrogen fuel-cell vehicle. The infrastructure for hydrogen fueling stations is still quite lacking, and even amongst the stations that exist in the Los Angeles area, they are often either out of fuel, or offline altogether. A similar web application does currently exist ([Hydrogen Stations Map](https://h2fcp.org/stationmap)), but as a frequent user of it, there are improvements I'd like to make on it.
