@@ -56,9 +56,7 @@ In no particular order, here are some of my favorite libraries that I've worked 
 ## [Hydrogen Stations Map](https://github.com/lstuartfry/h2-stations-map)
 
 
-
-https://github.com/lstuartfry/lstuartfry/assets/14063740/0e8211b8-627d-4c66-89ca-82514743261f
-
+https://github.com/lstuartfry/lstuartfry/assets/14063740/0967539e-b9ec-4d2b-97a5-4757b4fcb35e
 
 <strong>In Production @</strong> [https://h2stationsmap.dev](https://h2stationsmap.dev)
 
