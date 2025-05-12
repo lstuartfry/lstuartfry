@@ -2,7 +2,7 @@
   <img src="header.svg" style="width: 100%;" alt="profile header">
 </div>
 
-<h3 align="center">I'm a Software Engineer with 7+ years of experience.</h3>
+<h3 align="center">I'm a Software Engineer with 8+ years of experience.</h3>
 <h3 align="center">My expertise lies on the frontend, in particular working with <a href="https://www.typescriptlang.org/">TypeScript<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/></a>, <a href="https://react.dev/">React<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="20" height="20"/></a> and <a href="https://redux-toolkit.js.org/introduction/getting-started">Redux<img src="https://img.icons8.com/color/48/000000/redux.png" alt="react-redux" width="20" height="20"/></a>.</h3>
 
 <h3>📭 Connect with me!</h3>
@@ -11,12 +11,10 @@
 ](<(https://www.linkedin.com/in/lukas-stuart-fry/)>)
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 ](https://discordapp.com/users/lstuartfry)
-[![Static Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-](https://twitter.com/lstuartfry)
 
 ## About Me
 
-<h4>I'm a Software Engineer with 7+ years of experience. I have a passion for building high-quality, user-friendly applications. I have a strong background in frontend development, with expertise in TypeScript, React, and Redux. I am always looking to learn new technologies and improve my skills!</h4>
+<h4>I'm a Software Engineer with 8+ years of experience. I have a passion for building high-quality, user-friendly applications. I have a strong background in frontend development, with expertise in TypeScript, React, and Redux. I am always looking to learn new technologies and improve my skills!</h4>
 
 In 2008, I received a Bachelor of Arts in Screenwriting from Loyola Marymount's School of Film and Television. I worked in the entertainment industry for several years, before discovering my true passion for software development. In 2014, I enrolled in a coding bootcamp and quickly fell in love with programming. Since then, I have worked as a software engineer at several companies, building web applications and honing my skills.
 
